@@ -1,0 +1,5 @@
+dict2xml
+folium
+matplotlib
+tqdm
+pyyaml ua-parser user-agents
